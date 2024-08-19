@@ -1,0 +1,36 @@
+/*bigger screen*/
+
+    
+    /*laptop*/
+    @media screen and (max-width: 1300px) 
+    {
+    body {
+    color: rgb(84, 247, 9);
+    font-size: 40px;}
+    }
+    
+    /*pad*/
+    @media screen and (max-width: 1000px) 
+    {
+    body {
+    color: white;
+    font-size: 30px;}
+    }
+    
+    /*phone H*/
+    @media screen and (max-width: 600px) 
+    {
+    body {
+    color: red;
+    font-size: 20px;}
+    }
+    
+    /*phone V*/
+    @media screen and (max-width: 150px) 
+    {
+    body {
+    color: rgb(0, 162, 255);
+    font-size: 10px;}
+    }
+    
+ 
